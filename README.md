@@ -19,12 +19,12 @@
 ## Installation
 Run the following to grab the package:
 ```python
-$ pip install -e git+https://github.com/Andriaus/calculator#egg=calculator
+$ pip install git+https://github.com/Andriaus/calculator#egg=calculator
 ```
 
 ## Usage
 ```python
-from calculator import calc
+import calc
 
 calculator = calc.Calculator()
 calculator.add(5)
