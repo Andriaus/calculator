@@ -19,7 +19,7 @@
 ## Installation
 Run the following to grab the package:
 ```python
-$ pip install -e git+https://github.com/Andriaus/tesla_factory#egg=tesla_factory
+$ pip install -e git+https://github.com/Andriaus/calculator#egg=calculator
 ```
 
 ## Usage
